@@ -1,0 +1,15 @@
+import matplotlib.pyplot as plt
+from matplotlib import style
+plt.style.use('ggplot')
+x=[1,2,3,4,5,6,7,8,9,10,11,12]
+y=[]
+for i in range (12):
+       a=int(input("Enter profit of {0} month:" .format(i+1)))
+       y.append(a)
+plt.plot(x,y,linestyle ='dotted', label='profit', linewidth =3, marker='o', color = 'red')
+plt.title('Total profit')
+plt.xlabel('Month Number')
+plt.ylabel('Sold units number')
+plt.legend(loc='lower right'10)
+plt.tight_layout()
+plt.show()
