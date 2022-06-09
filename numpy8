@@ -1,0 +1,14 @@
+import matplotlib.pyplot as plt
+
+recta = plt.Rectangle((0, 0), 200, 200, fc="r")
+plt.gca().add_patch(recta)
+
+recta = plt.Rectangle((50, 50), 100, 100, fc="w")
+plt.gca().add_patch(recta)
+
+recta = plt.Rectangle((75, 75), 50, 50, fc="r")
+plt.gca().add_patch(recta)
+
+plt.axis("scaled")
+plt.show()
+plt.figure()
