@@ -7,4 +7,4 @@ for i in range(0, 5):
             curr.add_patch(plt.Rectangle((i * 5, j * 5), 5, 5, color="white"))
         else:
             curr.add_patch(plt.Rectangle((i * 5, j * 5), 5, 5, color="black"))
-plt.show()
+plt.show()..
