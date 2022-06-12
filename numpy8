@@ -11,4 +11,4 @@ plt.gca().add_patch(recta)
 
 plt.axis("scaled")
 plt.show()
-plt.figure()
+plt.figure().
