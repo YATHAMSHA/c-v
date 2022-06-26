@@ -15,4 +15,4 @@ cv.imshow('Canny', canny)
 
 dilated = cv.dilate(canny, (7,7), iterations=2)
 cv.imshow('Dilated', dilated)
-cv.waitKey(0)
+cv.waitKey(0).
