@@ -10,3 +10,4 @@ def fib(n):
 m = int(input("Enter the number to find its fibonacci: "))
 for Num in range(1, m + 1):
     print(fib(Num), end=" ")
+    
