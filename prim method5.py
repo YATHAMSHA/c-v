@@ -8,3 +8,5 @@ for num in range(2, n + 1):
                 break
         else:
             print(num, end=",")
+
+            
