@@ -14,3 +14,4 @@ print(f"div of {a} and {b} = {div}")
 print(f"mod of {a} and {b} = {mod}")
 print(f"exponention of {a} and {b} = {exp}")
 print(f"floor div of {a} and {b} = {flr}")
+
