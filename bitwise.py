@@ -26,4 +26,4 @@ cv.imshow('not oper', notoper)
 
 
 
-cv.waitKey(0).
+cv.waitKey(0)
