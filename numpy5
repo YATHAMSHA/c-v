@@ -10,3 +10,4 @@ plt.title("Annual profit")
 plt.xlabel("Month number")
 plt.ylabel("Total profit")
 plt.show()
+
