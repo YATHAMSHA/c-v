@@ -15,3 +15,4 @@ print(sampleArray)
 print("\n Printing array of odd rows and even columns")
 newArray = sampleArray[::2, 1::2]
 print(newArray)
+
