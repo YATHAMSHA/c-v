@@ -11,3 +11,4 @@ for num in numpy.nditer(resultArray, op_flags = ['readwrite']):
    num[...] = num*num
 print("\nResult array after calculating the square root of all elements\n")
 print(resultArray)
+
