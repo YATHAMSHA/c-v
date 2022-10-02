@@ -13,4 +13,3 @@ plt.ylabel('Sold units number')
 plt.legend(loc='lower right'10)
 plt.tight_layout()
 plt.show()
-.
