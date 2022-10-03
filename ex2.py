@@ -13,3 +13,4 @@ average = total / number
 print("The Sum of first {0} Natural Numbers  =  {1}".format(number, total))
 print("Average of first {0} Natural Numbers  =  {1}".format(number, average))
 
+
