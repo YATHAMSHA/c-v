@@ -10,3 +10,4 @@ b = int(input("Enter the second number: "))
 GCD = gcd(a, b)
 print("GCD of {} and {} is: {}".format(a, b, GCD))
 
+
